@@ -1,87 +1,154 @@
-<h1 align="left">SOFTWARE DEVELOPER</h1>
 
-###
+<h1 align="center">Hi, I'm Kulani Shaun Mabasa 👋</h1>
 
-<div align="center">
-  <img height="226" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"  />
-</div>
+<h3 align="center">
+  Computer Science Graduate (Cum Laude) | Junior Data Analyst | Software Developer
+</h3>
 
-###
+<p align="center">
+  <a href="https://github.com/axlDeVoe012">
+    <img src="https://komarev.com/ghpvc/?username=axlDeVoe012&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+</p>
 
-<p align="left">My name is Kulani Shaun Mabasa. I am a highly motivated and disciplined individual seeking opportunities to apply my academic background, strong problem-solving abilities, and deep passion for technology in real-world projects and innovative environments.</p>
+<p align="center">
+  <em>
+    Turning ideas into technology, data into insights, and challenges into solutions.
+  </em>
+</p>
 
-###
+---
 
-<h2 align="left">About me</h2>
+## 👨‍💻 About Me
 
-###
+I'm a **Computer Science graduate from Tshwane University of Technology (TUT), graduating Cum Laude**, with a passion for software engineering, data analytics, database technologies, automation, and emerging technologies.
 
-<p align="left">🧠 About Me<br>🌱 I’m currently learning and working with: React.js, Angular, Flask, Node.js, Spring Boot, Python, Java, C++, and JEE<br>👯 I’m open to collaborating on: Projects that help me sharpen my skills and contribute meaningfully to the dev community.<br>💻 View my work: GitHub Portfolio<br>📄 Want to know more about my experience?: Request my resume via email<br>📫 How to reach me: kulanishaunmabasa4@gmail.com<br>⚡ Fun fact: I'm a fast learner who thrives on improving and adapting through hands-on projects.</p>
+I currently work as a **Junior Data Analyst at Reunert Connect**, where I continue to grow my experience in data and technology.
 
-###
+My background combines full-stack development, database management, real-time systems, and IoT innovation. I enjoy understanding complex problems, building practical solutions, and continuously expanding my technical knowledge.
 
-<h2 align="left">Languages and Tools</h2>
+- 🎓 **Education:** Diploma in Computer Science — TUT (Cum Laude)
+- 💼 **Current Role:** Junior Data Analyst at Reunert Connect
+- 💻 **Development:** C#, ASP.NET Core, React, JavaScript and Python
+- 🗄️ **Data & Databases:** SQL, DBeaver, MySQL, Microsoft SQL Server and PostgreSQL
+- ⚙️ **Automation:** n8n, workflow automation and API integration
+- 🌱 **Currently exploring:** Data analytics, intelligent automation and scalable software systems
+- 🤝 **Open to:** Meaningful collaborations, innovative projects and knowledge sharing
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+## 🛠️ Technical Skills
 
-###
+### Programming Languages
 
-<h2 align="left">🌐 Connect With Me</h2>
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,java,python,js,ts,cpp,kotlin" />
+</p>
 
-###
+### Frameworks & Development
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,react,angular,nodejs,spring,flask,html,css,tailwind" />
+</p>
 
-###
+### Databases & Data Tools
 
-<p align="left">📧How to reach me: kulanishaunmabasa4@gmail.com<br>🔗Linkedin link: www.linkedin.com/in/kulani-shaun-mabasa</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
+</p>
 
-###
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-<h2 align="left">Github Stats</h2>
+### Automation, Tools & Platforms
 
-###
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,docker" />
+</p>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=axlDeVoe012&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=axlDeVoe012&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=axlDeVoe012&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=axlDeVoe012&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+<p>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</p>
 
-###
+---
+
+## 🚀 Projects & Innovation
+
+### 🚗 Fuel Management System
+A full-stack fleet and fuel management solution developed during my ICEP internship.
+
+- Developed using C#, ASP.NET Core, React and Microsoft SQL Server.
+- Implemented real-time communication using SignalR.
+- Integrated vehicle telemetry and fleet monitoring functionality.
+- Contributed to system development, testing and optimisation.
+- **Recognition:** Best Website Application and Best Overall System (team awards).
+
+### 🌱 Farmora — Smart Agriculture
+An IoT-powered smart agriculture solution developed as part of a multidisciplinary innovation team.
+
+- ESP32-based hardware and sensor integration.
+- Environmental and soil monitoring.
+- Automated irrigation components.
+- Firebase integration and AI-powered agricultural advisory features.
+- Contributed to hardware engineering and IoT integration.
+- **Recognition:** National recognition through the MICTSETA National Skills Challenge.
+
+---
+
+## 🏆 Achievements & Recognition
+
+- 🎓 Computer Science Diploma — Cum Laude, Tshwane University of Technology.
+- 🏅 TUT Top Achievers Award.
+- 🥇 Best First-Year Extended Student.
+- 💼 Best Overall Intern — ICEP.
+- 🏆 Best Website Application — Team Award.
+- 🏆 Best Overall System — Team Award.
+- 🌱 Farmora — National innovation recognition.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=axlDeVoe012&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+  <img height="165" src="https://streak-stats.demolab.com?user=axlDeVoe012&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axlDeVoe012&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=axlDeVoe012&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/kulani-mabasa-580546278/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:kulanishaunmabasa4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/axlDeVoe012">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+📧 **Email:** kulanishaunmabasa4@gmail.com
+
+💼 **LinkedIn:** [linkedin.com/in/kulani-mabasa-580546278](https://www.linkedin.com/in/kulani-mabasa-580546278)
+
+---
+
+<p align="center">
+  <em>Building. Learning. Innovating. One commit at a time.</em>
+</p>
