@@ -1,358 +1,336 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,45:3155A6,100:9B72CF&height=220&section=header&text=KULANI%20SHAUN%20MABASA&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20DATA%20ANALYST%20%7C%20TECHNOLOGY%20INNOVATOR&descSize=13&descAlignY=60&animation=fadeIn" width="100%" alt="Kulani Shaun Mabasa" />
+&#x20;\<div align="center">
 
-  <h1>Hi, I'm Kulani Shaun Mabasa 👋</h1>
+\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:243B70,100:8B6CCF&height=230&section=header&text=KULANI%20SHAUN%20MABASA&fontSize=43&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20DATA%20%26%20ANALYTICS%20%7C%20INNOVATION&descSize=14&descAlignY=60&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving\&color=0:0B1020,45:243B70,100:8B6CCF\&height=230\&section=header\&text=KULANI%20SHAUN%20MABASA\&fontSize=43\&fontColor=ffffff\&fontAlignY=38\&desc=SOFTWARE%20ENGINEERING%20%7C%20DATA%20%26%20ANALYTICS%20%7C%20INNOVATION\&descSize=14\&descAlignY=60\&animation=fadeIn)" width="100%" alt="Kulani Shaun Mabasa profile banner"/>
 
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=7AA2F7&center=true&vCenter=true&width=760&lines=Software+Developer+%7C+Junior+Data+Analyst+%7C+Technology+Enthusiast;Computer+Science+Graduate+(Cum+Laude)+%E2%80%94+TUT;Engineering+solutions.+Unlocking+insights.+Building+what+comes+next." alt="Subtitle Typing Animation" />
-  </p>
+# Kulani Shaun Mabasa
 
-  <p>
-    <a href="https://github.com/axlDeVoe012">
-      <img src="https://komarev.com/ghpvc/?username=axlDeVoe012&style=for-the-badge&color=3155A6&label=PROFILE+VIEWS" alt="Profile Views" />
-    </a>
-    <a href="https://www.linkedin.com/in/kulani-mabasa-580546278/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:kulanishaunmabasa4@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
-</div>
+### Software Developer · Junior Data Analyst · Technology Innovator
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:101827,50:3155A6,100:101827&height=2" width="100%" alt="Section Divider" />
-</div>
+*Engineering solutions. Unlocking insights. Building what comes next.*
 
-## 01 About Me
+\<br/>
 
-<img align="right" width="275" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="Developer animation" />
+\<a href="[https://github.com/axlDeVoe012](https://github.com/axlDeVoe012)">   \<img src="[https://komarev.com/ghpvc/?username=axlDeVoe012&style=for-the-badge&color=536DFE&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=axlDeVoe012\&style=for-the-badge\&color=536DFE\&label=PROFILE+VIEWS)" alt="Profile views"/> \</a> \<a href="[https://www.linkedin.com/in/kulani-mabasa-580546278/](https://www.linkedin.com/in/kulani-mabasa-580546278/)">   \<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn"/> \</a> \<a href="mailto\:kulanishaunmabasa4\@gmail.com">   \<img src="[https://img.shields.io/badge/Email-Contact-8B6CCF?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact-8B6CCF?style=for-the-badge\&logo=gmail\&logoColor=white)" alt="Email"/> \</a>
 
-I'm a **Computer Science graduate from Tshwane University of Technology (TUT), graduating Cum Laude**, with a passion for software engineering, data analytics, database technologies, automation and emerging technologies.
+\</div>
 
-Currently working as a **Junior Data Analyst at Reunert Connect**, I combine analytical thinking with software development experience to approach technical challenges from multiple perspectives. My experience spans full-stack application development, backend engineering, database management, real-time communication systems, IoT integration and workflow automation.
+---
 
-I enjoy transforming complex requirements into practical, scalable and meaningful technology solutions.
+## 01 / Professional Profile
 
-**A little more about me:**
-- 🎓 **Education:** Diploma in Computer Science — TUT *(Cum Laude)*
-- 💼 **Current Role:** Junior Data Analyst at Reunert Connect
-- 💻 **Development:** Full-stack development using C#, ASP.NET Core and React
-- 🗄️ **Data:** Database technologies, SQL development and data analysis
-- ⚙️ **Automation:** Workflow automation and API integration
-- 🌱 **Exploring:** Intelligent systems, AI and data engineering
-- 🤝 **Mindset:** Interested in innovation, collaboration and continuous learning
+I'm a **Computer Science graduate from Tshwane University of Technology (TUT), graduating Cum Laude**, with a strong interest in software engineering, data analytics, database technologies, automation and emerging technologies.
 
-<br clear="both" />
+Currently working as a **Junior Data Analyst at Reunert Connect**, I bring together analytical thinking and software engineering experience to solve technical and business problems.
 
-```typescript
-const profile = {
-  name: "Kulani Shaun Mabasa",
-  role: "Junior Data Analyst & Full-Stack Software Developer",
-  education: "Diploma in Computer Science — TUT (Cum Laude)",
-  focus: ["Full-Stack Systems", "Data Analytics", "SQL & Databases", "Workflow Automation", "IoT & AI"],
-  motto: "Engineering solutions. Unlocking insights. Building what comes next."
-};
-```
+My background includes developing full-stack applications, designing backend services, working with relational databases, integrating real-time systems and building technology-driven solutions.
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:101827,50:9B72CF,100:101827&height=2" width="100%" alt="Section Divider" />
-</div>
+I enjoy working at the intersection of software, data and innovation — transforming complex requirements into practical, reliable and scalable solutions.
 
-## 02 Technical Expertise
+### Professional Snapshot
 
-I work across multiple areas of technology, with a focus on building integrated software solutions.
+| Area                   | Details                                                |
+| :--------------------- | :----------------------------------------------------- |
+| Education              | Diploma in Computer Science — TUT, Cum Laude           |
+| Current Position       | Junior Data Analyst — Reunert Connect                  |
+| Software Engineering   | C#, ASP.NET Core, React, JavaScript                    |
+| Data & Databases       | SQL, MySQL, Microsoft SQL Server, PostgreSQL           |
+| Automation             | n8n, REST APIs, workflow integration                   |
+| Innovation             | IoT, AI-powered applications and intelligent systems   |
+| Professional Interests | Software architecture, data engineering and automation |
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4 align="center"><code>&lt;Programming Languages /&gt;</code></h4>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=cs,java,python,js,ts,cpp,kotlin&theme=dark" alt="Programming Languages" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4 align="center"><code>&lt;Frontend Development /&gt;</code></h4>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=react,angular,html,css,tailwind,vite&theme=dark" alt="Frontend Technologies" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4 align="center"><code>&lt;Backend Development /&gt;</code></h4>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=dotnet,nodejs,spring,flask,express&theme=dark" alt="Backend Technologies" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4 align="center"><code>&lt;Databases &amp; Data Technologies /&gt;</code></h4>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase&theme=dark" alt="Database Technologies" />
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
-        <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver" />
-        <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h4 align="center"><code>&lt;Automation, DevOps &amp; Development Tools /&gt;</code></h4>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio,postman&theme=dark" alt="Development Tools" />
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-        <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge" alt="REST APIs" />
-        <img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="SignalR" />
-        <img src="https://img.shields.io/badge/ESP32_IoT-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32 IoT" />
-      </p>
-    </td>
-  </tr>
-</table>
+> My approach: Understand the problem, design the solution, engineer the implementation and continuously improve the result.
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:101827,50:3155A6,100:101827&height=2" width="100%" alt="Section Divider" />
-</div>
+---
 
-## 03 Featured Projects
+## 02 / Technical Expertise
 
-A selection of engineering and innovation projects that demonstrate my experience across software development, IoT and intelligent systems.
+My technical experience spans software development, data technologies, automation and system integration.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚗 Fleet &amp; Fuel Management System</h3>
-      <p><strong>Enterprise Full-Stack Application | ICEP Internship</strong></p>
-      <p>A fleet and fuel management platform developed to support vehicle administration, fuel monitoring, telemetry and operational reporting.</p>
-      <p><strong>Key contributions and functionality:</strong></p>
-      <ul>
-        <li>Full-stack development using <strong>C#, ASP.NET Core, React</strong> and <strong>Microsoft SQL Server</strong>.</li>
-        <li>Real-time communication and updates using <strong>SignalR</strong>.</li>
-        <li>Vehicle and fuel management functionality.</li>
-        <li>Vehicle telemetry integration and fleet monitoring.</li>
-        <li>Backend API development and frontend integration.</li>
-        <li>System testing and optimisation.</li>
-      </ul>
-      <p><strong>Technologies:</strong><br/>
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
-        <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-        <img src="https://img.shields.io/badge/SignalR-3155A6?style=flat-square&logo=dotnet&logoColor=white" alt="SignalR" />
-      </p>
-      <p><strong>Recognition:</strong></p>
-      <ul>
-        <li>🏆 <strong>Best Website Application</strong> — Team Award</li>
-        <li>🏆 <strong>Best Overall System</strong> — Team Award</li>
-        <li>🥇 <strong>Best Overall Intern</strong> — Individual Award</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/axlDeVoe012/AEMF-FuelManagement.Sever">
-          <img src="https://img.shields.io/badge/Backend_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Backend Repository" />
-        </a>
-        <a href="https://github.com/axlDeVoe012/AEMF-FuelManagement.Web">
-          <img src="https://img.shields.io/badge/Frontend_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Frontend Repository" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌱 Farmora — Smart Agriculture</h3>
-      <p><strong>IoT | AI | Agricultural Innovation</strong></p>
-      <p>A smart agriculture solution developed as part of a multidisciplinary innovation team, combining IoT technology, environmental monitoring and intelligent agricultural advisory capabilities.</p>
-      <p><strong>Key contributions and functionality:</strong></p>
-      <ul>
-        <li><strong>ESP32-based</strong> hardware integration.</li>
-        <li>Environmental monitoring using <strong>DHT22 sensors</strong>.</li>
-        <li>Soil moisture monitoring.</li>
-        <li>Automated irrigation control.</li>
-        <li><strong>Firebase</strong> integration for data management.</li>
-        <li>AI-powered agricultural advisory capabilities.</li>
-        <li>Hardware and software integration.</li>
-      </ul>
-      <p><strong>Technologies:</strong><br/>
-        <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-        <img src="https://img.shields.io/badge/IoT-3155A6?style=flat-square" alt="IoT" />
-        <img src="https://img.shields.io/badge/AI-9B72CF?style=flat-square" alt="AI" />
-        <img src="https://img.shields.io/badge/DHT22_Sensors-009688?style=flat-square" alt="Sensors" />
-      </p>
-      <p><strong>Recognition:</strong></p>
-      <ul>
-        <li>🏅 <strong>National Recognition</strong> through the <strong>MICTSETA National Skills Challenge</strong>.</li>
-      </ul>
-      <p align="center">
-        <a href="https://www.tut.ac.za/newsroom/all-news/2026/smart-agriculture-breakthrough-earns-national-recognition-for-farmora-innovators.php" target="_blank">
-          <img src="https://img.shields.io/badge/Read_TUT_Newsroom_Feature-3155A6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Read TUT Newsroom Feature" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+### Programming Languages
 
-<p align="center">
-  <a href="https://github.com/axlDeVoe012/AEMF-FuelManagement.Sever">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=axlDeVoe012&repo=AEMF-FuelManagement.Sever&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&icon_color=9B72CF&text_color=C9D1D9" alt="AEMF Backend Repo Card" />
-  </a>
-  <a href="https://github.com/axlDeVoe012/AEMF-FuelManagement.Web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=axlDeVoe012&repo=AEMF-FuelManagement.Web&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&icon_color=9B72CF&text_color=C9D1D9" alt="AEMF Frontend Repo Card" />
-  </a>
-</p>
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=cs,java,python,js,ts,cpp,kotlin&theme=dark](https://skillicons.dev/icons?i=cs,java,python,js,ts,cpp,kotlin\&theme=dark)" alt="Programming languages"/>
+\</p>
 
-<details>
-  <summary><b>📂 View Additional Projects (MRX Tutorials, Enviro365 &amp; SA Women in ICT)</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th>Project</th>
-      <th>Description</th>
-      <th>Technologies</th>
-    </tr>
-    <tr>
-      <td><strong>MRX Tutorials</strong></td>
-      <td>Full-stack e-learning platform featuring structured course delivery, role-based access workflows, and 2FA student onboarding.</td>
-      <td><code>React</code> <code>TypeScript</code> <code>ASP.NET Core</code> <code>SQL</code></td>
-    </tr>
-    <tr>
-      <td><strong>Enviro365 Investment System</strong></td>
-      <td>Financial portfolio management platform enforcing strict domain validation for account balances, asset allocation, and withdrawals.</td>
-      <td><code>Java</code> <code>Spring Boot</code> <code>React</code> <code>PostgreSQL</code></td>
-    </tr>
-    <tr>
-      <td><strong>SA Women in ICT</strong></td>
-      <td>Web platform built to support digital visibility, community engagement, and resources for women in the South African ICT sector.</td>
-      <td><code>React</code> <code>Node.js</code> <code>Tailwind CSS</code></td>
-    </tr>
-  </table>
-</details>
+### Frontend Engineering
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:101827,50:9B72CF,100:101827&height=2" width="100%" alt="Section Divider" />
-</div>
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=react,angular,html,css,tailwind,vite&theme=dark](https://skillicons.dev/icons?i=react,angular,html,css,tailwind,vite\&theme=dark)" alt="Frontend technologies"/>
+\</p>
 
-## 04 Achievements & Recognition
+### Backend Engineering
 
-Academic excellence, professional development and innovation have been important milestones throughout my journey.
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=dotnet,nodejs,spring,flask,express&theme=dark](https://skillicons.dev/icons?i=dotnet,nodejs,spring,flask,express\&theme=dark)" alt="Backend technologies"/>
+\</p>
 
-| Achievement | Recognition |
-| :--- | :--- |
-| 🎓 **Diploma in Computer Science — Cum Laude** | Tshwane University of Technology |
-| 🏅 **TUT Top Achievers Award** | Tshwane University of Technology |
-| 🥇 **Best First-Year Extended Student** | Tshwane University of Technology |
-| 💼 **Best Overall Intern** | ICEP |
-| 🏆 **Best Website Application** | ICEP — Team Award |
-| 🏆 **Best Overall System** | ICEP — Team Award |
-| 🌱 **National Innovation Recognition** | MICTSETA National Skills Challenge — Farmora |
-| 🎤 **Keynote Speaker (August 2026)** | TUT Innovation, Entrepreneurship & Student Success Summit |
+### Databases & Data Technologies
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:101827,50:3155A6,100:101827&height=2" width="100%" alt="Section Divider" />
-</div>
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase&theme=dark](https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase\&theme=dark)" alt="Database technologies"/>
+\</p>
 
-## 05 Professional Interests
+\<p>
+&#x20; \<img src="[https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square\&logo=microsoftsqlserver\&logoColor=white)" alt="Microsoft SQL Server"/>
+&#x20; \<img src="[https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white](https://img.shields.io/badge/DBeaver-382923?style=flat-square\&logo=dbeaver\&logoColor=white)" alt="DBeaver"/>
+&#x20; \<img src="[https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white](https://img.shields.io/badge/SQL-025E8C?style=flat-square\&logo=postgresql\&logoColor=white)" alt="SQL"/>
+\</p>
 
-Beyond my current technical experience, I'm particularly interested in exploring and developing solutions within the following areas:
+### Automation, Development Tools & Infrastructure
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💻 Software Engineering</h4>
-      <ul>
-        <li>Enterprise application development.</li>
-        <li>Backend architecture and API design.</li>
-        <li>Full-stack engineering.</li>
-        <li>Scalable software systems.</li>
-        <li>Real-time applications.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📊 Data &amp; Analytics</h4>
-      <ul>
-        <li>SQL development and optimisation.</li>
-        <li>Database management.</li>
-        <li>Data analysis and reporting.</li>
-        <li>Data-driven decision-making.</li>
-        <li>Data engineering.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>⚙️ Automation &amp; Integration</h4>
-      <ul>
-        <li>Workflow automation.</li>
-        <li>n8n integrations.</li>
-        <li>REST API integration.</li>
-        <li>Process optimisation.</li>
-        <li>System interoperability.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🤖 Emerging Technologies</h4>
-      <ul>
-        <li>Artificial intelligence.</li>
-        <li>Internet of Things.</li>
-        <li>Intelligent automation.</li>
-        <li>Smart agriculture.</li>
-        <li>Applied machine learning.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio,postman&theme=dark](https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio,postman\&theme=dark)" alt="Development tools"/>
+\</p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:101827,50:9B72CF,100:101827&height=2" width="100%" alt="Section Divider" />
-</div>
+\<p>
+&#x20; \<img src="[https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white](https://img.shields.io/badge/n8n-EA4B71?style=flat-square\&logo=n8n\&logoColor=white)" alt="n8n"/>
+&#x20; \<img src="[https://img.shields.io/badge/REST_APIs-009688?style=flat-square](https://img.shields.io/badge/REST_APIs-009688?style=flat-square)" alt="REST APIs"/>
+&#x20; \<img src="[https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white](https://img.shields.io/badge/SignalR-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)" alt="SignalR"/>
+&#x20; \<img src="[https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white](https://img.shields.io/badge/ESP32-E7352C?style=flat-square\&logo=espressif\&logoColor=white)" alt="ESP32"/>
+\</p>
 
-## 06 GitHub Analytics
+---
 
-A snapshot of my development activity and open-source contributions.
+## 03 / Featured Engineering Projects
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=axlDeVoe012&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&icon_color=9B72CF&text_color=C9D1D9" alt="GitHub Statistics" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=axlDeVoe012&theme=tokyonight&hide_border=true&background=0D1117&ring=3155A6&fire=9B72CF&currStreakLabel=7AA2F7" alt="GitHub Streak" />
-  <br /><br />
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axlDeVoe012&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&text_color=C9D1D9" alt="Most Used Languages" />
-  <br /><br />
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=axlDeVoe012&bg_color=0D1117&color=7AA2F7&line=3155A6&point=9B72CF&area=true&hide_border=true" alt="Contribution Activity Graph" />
-  <br /><br />
-  <img src="https://github-profile-trophy.vercel.app/?username=axlDeVoe012&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
-</div>
+Selected projects demonstrating my experience in enterprise application development, system integration, data-driven solutions and innovation.
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:101827,50:3155A6,100:101827&height=2" width="100%" alt="Section Divider" />
-</div>
+### 🚗 Fleet & Fuel Management System
 
-## 07 Let's Connect
+\<sub>ENTERPRISE SOFTWARE · FULL-STACK DEVELOPMENT · ICEP INTERNSHIP\</sub>
 
-I'm always interested in connecting with fellow developers, technology enthusiasts, innovators and professionals. Whether it's discussing software engineering, data technologies, automation or potential collaborations, feel free to reach out.
+A fleet and fuel management platform developed to support vehicle administration, fuel monitoring, telemetry and operational reporting.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/kulani-mabasa-580546278/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Kulani_Mabasa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:kulanishaunmabasa4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Let's_Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/axlDeVoe012">
-    <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+**Engineering contributions**
 
-  <br /><br />
+- Developed backend functionality using C# and ASP.NET Core.
+- Built frontend interfaces using React and JavaScript.
+- Implemented real-time communication using SignalR.
+- Integrated vehicle telemetry and fleet monitoring functionality.
+- Worked with Microsoft SQL Server for data persistence.
+- Contributed to system design, development, testing and optimisation.
 
-  <p>
-    📧 <strong>Email:</strong> <a href="mailto:kulanishaunmabasa4@gmail.com">kulanishaunmabasa4@gmail.com</a> &nbsp;|&nbsp;
-    💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/kulani-mabasa-580546278/" target="_blank">linkedin.com/in/kulani-mabasa-580546278</a>
-  </p>
+**Technology stack**
 
-  <p>
-    <em>"Building with purpose. Engineering with precision. Innovating without limits."</em>
-  </p>
+`C#` `ASP.NET Core` `React` `JavaScript` `SQL Server` `SignalR`
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9B72CF,50:3155A6,100:101827&height=120&section=footer" width="100%" alt="Footer" />
-  <sub>Designed and maintained by Kulani Shaun Mabasa © 2026</sub>
-</div>
+**Project recognition**
+
+- 🏆 Best Website Application — Team Award.
+- 🏆 Best Overall System — Team Award.
+- 🥇 Best Overall Intern — Individual Award.
+
+\<div align="center">
+
+\<a href="[https://github.com/axlDeVoe012/AEMF-FuelManagement.Sever](https://github.com/axlDeVoe012/AEMF-FuelManagement.Sever)">
+&#x20; \<img src="[https://img.shields.io/badge/Backend_Repository-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/Backend_Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="Backend repository"/>
+\</a>
+\<a href="[https://github.com/axlDeVoe012/AEMF-FuelManagement.Web](https://github.com/axlDeVoe012/AEMF-FuelManagement.Web)">
+&#x20; \<img src="[https://img.shields.io/badge/Frontend_Repository-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/Frontend_Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="Frontend repository"/>
+\</a>
+
+\</div>
+
+---
+
+### 🌱 Farmora — Smart Agriculture
+
+\<sub>INTERNET OF THINGS · AI · AGRICULTURAL INNOVATION\</sub>
+
+A smart agriculture solution developed through a multidisciplinary innovation initiative, integrating IoT hardware, environmental monitoring, automated irrigation and AI-powered agricultural advisory capabilities.
+
+**Engineering contributions**
+
+- Integrated ESP32-based hardware components.
+- Implemented environmental monitoring using DHT22 sensors.
+- Integrated soil moisture sensing.
+- Worked on automated irrigation control using relay-based components.
+- Integrated Firebase for data management.
+- Contributed to AI-powered agricultural advisory functionality.
+- Worked across hardware, connectivity and software integration.
+
+**Technology stack**
+
+`ESP32` `C++` `Firebase` `IoT` `AI` `DHT22` `Sensor Integration`
+
+**Recognition**
+
+🏅 National recognition through the MICTSETA National Skills Challenge.
+
+\<div align="center">
+
+\<a href="[https://www.tut.ac.za/newsroom/all-news/2026/smart-agriculture-breakthrough-earns-national-recognition-for-farmora-innovators.php](https://www.tut.ac.za/newsroom/all-news/2026/smart-agriculture-breakthrough-earns-national-recognition-for-farmora-innovators.php)">
+&#x20; \<img src="[https://img.shields.io/badge/Read_TUT_Newsroom_Feature-3155A6?style=for-the-badge&logo=googlechrome&logoColor=white](https://img.shields.io/badge/Read_TUT_Newsroom_Feature-3155A6?style=for-the-badge\&logo=googlechrome\&logoColor=white)" alt="TUT newsroom article"/>
+\</a>
+
+\</div>
+
+---
+
+### Additional Engineering Projects
+
+\<details>
+\<summary>\<strong>📚 MRX Tutorials — Full-Stack E-Learning Platform\</strong>\</summary>
+
+A full-stack e-learning platform featuring structured course delivery, role-based access workflows and two-factor authentication for student onboarding.
+
+**Technologies:** `React` `TypeScript` `ASP.NET Core` `SQL`
+
+\</details>
+
+\<details>
+\<summary>\<strong>📈 Enviro365 Investment System\</strong>\</summary>
+
+A financial portfolio management application focused on enforcing domain validation for account balances, asset allocation and withdrawal operations.
+
+**Technologies:** `Java` `Spring Boot` `React` `PostgreSQL`
+
+\</details>
+
+\<details>
+\<summary>\<strong>👩‍💻 South African Women in ICT\</strong>\</summary>
+
+A web platform designed to support digital visibility, community engagement and resources for women in the South African ICT sector.
+
+**Technologies:** `React` `Node.js` `Tailwind CSS`
+
+\</details>
+
+---
+
+## 04 / Achievements & Recognition
+
+Academic excellence, professional development and innovation have shaped my journey in technology.
+
+| Achievement                                    | Institution / Programme                                   |
+| :--------------------------------------------- | :-------------------------------------------------------- |
+| 🎓 **Diploma in Computer Science — Cum Laude** | Tshwane University of Technology                          |
+| 🏅 **TUT Top Achievers Award**                 | Tshwane University of Technology                          |
+| 🥇 **Best First-Year Extended Student**        | Tshwane University of Technology                          |
+| 💼 **Best Overall Intern**                     | ICEP                                                      |
+| 🏆 **Best Website Application**                | ICEP — Team Award                                         |
+| 🏆 **Best Overall System**                     | ICEP — Team Award                                         |
+| 🌱 **National Innovation Recognition**         | MICTSETA National Skills Challenge — Farmora              |
+| 🎤 **Keynote Speaker — August 2026**           | TUT Innovation, Entrepreneurship & Student Success Summit |
+
+---
+
+## 05 / Professional Interests
+
+Areas where I continue to develop my knowledge and explore new opportunities.
+
+\<table>
+&#x20; \<tr>
+&#x20;   \<td width="50%" valign="top">
+
+### 💻 Software Engineering
+
+- Enterprise application development
+- Backend architecture and API design
+- Full-stack engineering
+- Scalable software systems
+- Real-time applications
+
+### 📊 Data & Analytics
+
+- SQL development and optimisation
+- Relational database management
+- Data analysis and reporting
+- Data-driven decision-making
+- Data engineering
+
+### ⚙️ Automation & Integration
+
+- Workflow automation
+- n8n integrations
+- REST API integration
+- Process optimisation
+- System interoperability
+
+### 🤖 Emerging Technologies
+
+- Artificial intelligence
+- Internet of Things
+- Intelligent automation
+- Smart agriculture
+- Applied machine learning
+
+\</table>
+
+---
+
+## 06 / GitHub Analytics
+
+An overview of my GitHub development activity and contributions.
+
+\<div align="center">
+
+\<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=axlDeVoe012&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&icon_color=BB9AF7&text_color=C9D1D9](https://github-readme-stats.vercel.app/api?username=axlDeVoe012\&show_icons=true\&theme=tokyonight\&hide_border=true\&bg_color=0D1117\&title_color=7AA2F7\&icon_color=BB9AF7\&text_color=C9D1D9)" alt="GitHub statistics"/>
+
+\<img width="49%" src="[https://streak-stats.demolab.com?user=axlDeVoe012&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7](https://streak-stats.demolab.com?user=axlDeVoe012\&theme=tokyonight\&hide_border=true\&background=0D1117\&ring=7AA2F7\&fire=BB9AF7\&currStreakLabel=7AA2F7)" alt="GitHub contribution streak"/>
+
+\<br/>\<br/>
+
+\<img width="55%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=axlDeVoe012&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&text_color=C9D1D9](https://github-readme-stats.vercel.app/api/top-langs/?username=axlDeVoe012\&layout=compact\&langs_count=8\&theme=tokyonight\&hide_border=true\&bg_color=0D1117\&title_color=7AA2F7\&text_color=C9D1D9)" alt="Most used programming languages"/>
+
+\<br/>\<br/>
+
+\<img width="95%" src="[https://github-readme-activity-graph.vercel.app/graph?username=axlDeVoe012&bg_color=0D1117&color=7AA2F7&line=536DFE&point=BB9AF7&area=true&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=axlDeVoe012\&bg_color=0D1117\&color=7AA2F7\&line=536DFE\&point=BB9AF7\&area=true\&hide_border=true)" alt="GitHub contribution activity graph"/>
+
+\<br/>\<br/>
+
+\<img src="[https://github-profile-trophy.vercel.app/?username=axlDeVoe012&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6](https://github-profile-trophy.vercel.app/?username=axlDeVoe012\&theme=tokyonight\&no-frame=true\&no-bg=true\&row=1\&column=6)" alt="GitHub trophies"/>
+
+\</div>
+
+---
+
+## 07 / Beyond the Code
+
+I believe technology is most impactful when it solves real problems and creates opportunities for others.
+
+My journey has involved more than writing code. It has also included:
+
+- **Leadership:** Taking responsibility within multidisciplinary technical teams.
+- **Mentorship:** Supporting students and sharing technical knowledge.
+- **Innovation:** Exploring practical applications of software, data and IoT.
+- **Collaboration:** Working with people from different technical backgrounds.
+- **Continuous development:** Learning, experimenting and improving through practical projects.
+
+My goal is to continue growing as an engineer while contributing to meaningful technological solutions.
+
+---
+
+## 08 / Let's Connect
+
+I'm always interested in connecting with developers, data professionals, technology enthusiasts and innovators.
+
+Whether it's discussing software engineering, data technologies, automation, emerging technologies or potential collaborations, feel free to reach out.
+
+\<div align="center">
+
+\<a href="[https://www.linkedin.com/in/kulani-mabasa-580546278/](https://www.linkedin.com/in/kulani-mabasa-580546278/)">
+&#x20; \<img src="[https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn"/>
+\</a>
+\<a href="mailto\:kulanishaunmabasa4\@gmail.com">
+&#x20; \<img src="[https://img.shields.io/badge/Email-Send_a_message-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Send_a_message-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)" alt="Email"/>
+\</a>
+\<a href="[https://github.com/axlDeVoe012](https://github.com/axlDeVoe012)">
+&#x20; \<img src="[https://img.shields.io/badge/GitHub-Explore_my_work-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Explore_my_work-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub"/>
+\</a>
+
+\<br/>\<br/>
+
+**📧 Email:** [kulanishaunmabasa4@gmail.com](mailto\:kulanishaunmabasa4@gmail.com)
+
+**💼 LinkedIn:** [Kulani Shaun Mabasa](https://www.linkedin.com/in/kulani-mabasa-580546278/)
+
+\<br/>
+
+### "Building with purpose. Engineering with precision. Innovating without limits."
+
+\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:8B6CCF,50:243B70,100:0B1020&height=130&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:8B6CCF,50:243B70,100:0B1020\&height=130\&section=footer)" width="100%" alt="Profile footer"/>
+
+\<sub>Designed and maintained by Kulani Shaun Mabasa · 2026\</sub>
+
+\</div>
