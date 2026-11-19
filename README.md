@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Kulani Shaun Mabasa 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=720&lines=Computer+Science+Graduate+(Cum+Laude)+%E2%80%94+TUT;Junior+Data+Analyst+%40+Reunert+Connect;Full-Stack+Software+Developer+%7C+Automation+%26+IoT+Builder" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=720&lines=Computer+Science+Graduate+(Cum+Laude)+%E2%80%94+TUT;Junior+Data+Analyst+%40+Reunert+Connect;Full-Stack+Software+Developer+%7C+SQL%2C+DBeaver+%26+Automation" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -73,8 +73,8 @@ I currently work as a **Junior Data Analyst at Reunert Connect**, where I contin
         <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" alt="Databases" />
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
         <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver" />
+        <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
         <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
       </p>
     </td>
